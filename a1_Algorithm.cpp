@@ -1,3 +1,4 @@
+//luogu - P3817 小A的糖果
 #include <bits/stdc++.h>
 using namespace std;
 
